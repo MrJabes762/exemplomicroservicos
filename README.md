@@ -4,7 +4,7 @@
 
 - Java; 
 - Spring (BOOT,MVC,Data, JPA, Doc OpenAPI)
-- MySQL.
+- MySQL ou H2.
 
 ## Práticas Implementadas: 
 
