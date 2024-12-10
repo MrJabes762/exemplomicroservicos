@@ -36,7 +36,7 @@ https://github.com/MrJabes762/exemplomicroservicos.git
 3 - Executar  
 
 ```console
-java-jar target/todolist-0.0.1-SNAPSHOT.jar
+java-jar target/exemplomicroserviços-0.0.1-SNAPSHOT.jar
 ```
 
 ## Extra: 
